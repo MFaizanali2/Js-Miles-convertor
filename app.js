@@ -19,10 +19,10 @@ function convert(){
     let result_cm = input*cm;
     let result_inch = input*inch;
 
-    one.innerText = `${input} Miles equal to ${result_km} km`;
-    two.innerText = `${input} Miles equal to ${result_meter} meter`;
-    three.innerText = `${input} Miles equal to ${result_foot} foot`;
-    four.innerText = `${input} Miles equal to ${result_cm} cm`;
-    five.innerText = `${input} Miles equal to ${result_inch} inch`;
+    one.innerText = `${input}  Miles equal to  ${result_km}  km`;
+    two.innerText = `${input}  Miles equal to  ${result_meter}  meter`;
+    three.innerText = `${input}  Miles equal to  ${result_foot}  foot`;
+    four.innerText = `${input}  Miles equal to  ${result_cm}  cm`;
+    five.innerText = `${input}  Miles equal to  ${result_inch}  inch`;
     
 }
