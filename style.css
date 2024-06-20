@@ -9,6 +9,9 @@ html,body{
 }
 body{
     background-color: #3c95ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #container{
     width: 35%;
